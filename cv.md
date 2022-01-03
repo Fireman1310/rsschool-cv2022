@@ -1,7 +1,7 @@
 # rsschool-cv
-====
+
 # Boris Kaptsiuh
-=======
+
 Mob: +375299136658, Mail: godofmath@mail.ru, [VK](https://vk.com/b.kaptyug "Link to VK")
 
 I will learning to coding JS, learning HTML and CSS. I learn quickly, set specific goals for myself. No experience with programming.
